@@ -1,0 +1,49 @@
+
+[
+  {
+    "_id": 101,
+    "first_name": "Ada",
+    "last_name": "Okafor",
+    "department": "Computer Science",
+    "courses": [
+      {"course": "Database Systems", "score": 85},
+      {"course": "Programming", "score": 78}
+    ]
+  },
+  {
+    "_id": 102,
+    "first_name": "Tunde",
+    "last_name": "Bello",
+    "department": "Computer Science",
+    "courses": [
+      {"course": "Database Systems", "score": 67}
+    ]
+  },
+  {
+    "_id": 103,
+    "first_name": "Amaka",
+    "last_name": "Eze",
+    "department": "Business Administration",
+    "courses": [
+      {"course": "Business Management", "score": 91}
+    ]
+  },
+  {
+    "_id": 104,
+    "first_name": "David",
+    "last_name": "James",
+    "department": "Mathematics",
+    "courses": [
+      {"course": "Statistics", "score": 73}
+    ]
+  },
+  {
+    "_id": 105,
+    "first_name": "Zainab",
+    "last_name": "Musa",
+    "department": "Computer Science",
+    "courses": [
+      {"course": "Database Systems", "score": 88}
+    ]
+  }
+]
